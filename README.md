@@ -103,14 +103,8 @@ Circle CCTP integration planned for cross-chain transfers.
 
 Edufrem is an edtech/fintech startup building transparent, inclusive education financing infrastructure for francophone Africa.
 
-🌍 [edufrem.com](https://edufrem.com) · 📧 [contact@edufrem.com](mailto:contact@edufrem.com)
+ [edufrem.com](https://edufrem.com) · [contact@edufrem.com](mailto:contact@edufrem.com)
 
----
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 *This repository represents the architectural foundation. Code implementation is actively in development.*
